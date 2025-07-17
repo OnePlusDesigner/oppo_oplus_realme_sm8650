@@ -55,7 +55,6 @@ jobs:
       contents: write
       packages: write
       actions: read
-      
     steps:
       - name: 设置变量
         run: |
